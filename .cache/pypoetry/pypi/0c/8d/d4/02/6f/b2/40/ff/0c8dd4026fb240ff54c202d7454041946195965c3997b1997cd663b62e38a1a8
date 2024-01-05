@@ -1,0 +1,1 @@
+9999999999{"name": "msedge-selenium-tools", "version": "3.141.4", "summary": "An updated EdgeDriver implementation for Selenium 3 with newly-added support for Microsoft Edge (Chromium).", "platform": "", "requires_dist": ["selenium (==3.141)"], "requires_python": "", "files": [], "_cache_version": "1.0.0"}

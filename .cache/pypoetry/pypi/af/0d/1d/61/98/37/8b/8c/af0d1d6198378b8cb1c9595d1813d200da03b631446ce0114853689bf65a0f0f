@@ -1,0 +1,1 @@
+9999999999{"name": "chromium-binary-lambda", "version": "1.0.13", "summary": "Binary of chromium for usin in lambda functions", "platform": null, "requires_dist": ["certifi==2022.9.24", "urllib3==1.26.12", "tqdm==4.64.1"], "requires_python": ">=3.8", "files": [], "_cache_version": "1.0.0"}
