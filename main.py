@@ -1,6 +1,6 @@
 import discord
 import os
-from requests_html import AsyncHTMLSession
+from requests_html2 import AsyncHTMLSession
 import pendulum
 import asyncio
 from datetime import datetime, timedelta, time, date
